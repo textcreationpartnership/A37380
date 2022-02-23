@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Kings most excellent majesties proceeding with his army at Oxford and elsewhere as it was related by a Student from thence.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37380</idno>
+            <idno type="STC">Wing D695</idno>
+            <idno type="EEBO-CITATION">12147373</idno>
+            <idno type="OCLC">ocm 12147373</idno>
+            <idno type="VID">196960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E84, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Kings most excellent majesties proceeding with his army at Oxford and elsewhere as it was related by a Student from thence.</title>
+                  <author>W. C.</author>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Madan 1160 dated : Jan. 3, 1643?</note>
+                  <note>"The copy of a letter written from a student in Oxford to his friend in London" p. 3-5 is signed: W. C.</note>
+                  <note>"The answer to the former letter" p. 5-8 a diatribe against Catholics is signed: T. H.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196960:1" rendition="simple:additions"/>
+            <p>A Declaration OF THE KINGS Moſt excellent Majeſties proceeding With his Army at OXFORD, And elſewhere. <hi>As it was related by a Student from thence.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Wright,</hi> and are to be ſold in the Old Baily. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196960:2"/>
+            <pb facs="tcp:196960:2"/>
+            <head>The copy of a Letter written from a Stu<g ref="char:EOLhyphen"/>dent in Oxford to his friend in London.</head>
+            <opener>
+               <salute>Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath brought much joy unto my heart, (which languiſhed before under the feel<g ref="char:EOLhyphen"/>ling and apprehenſion of theſe civill tu<g ref="char:EOLhyphen"/>mults) to underſtand the good <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewes of your health, and that the malignancy be<g ref="char:EOLhyphen"/>twixt our old Collegiates, Doctor <hi>Picke<g ref="char:EOLhyphen"/>ring</hi> and Doctor <hi>Turner</hi> is happily reconci<g ref="char:EOLhyphen"/>led. I know with a labouring deſire you almoſt travaile with this Poſt to bee informed how the affaires of his Majeſty here in Oxford doe advance themſelves, which I muſt diſpatch in my old and dull way; and though I ſhall offend you with my rudeneſſe, I ſhall content you with the truth.</p>
+            <p>His Majeſties forces having for many conſiderations beene retired from B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nbury, were not long ſince brought nearer un<g ref="char:EOLhyphen"/>to Oxford, and billetted at Bril, a high and hilly place, and where (before it was disforeſted) was fuell and billet enough. The ſituation of it is no leſſe knowne unto you, then to my ſelf<g ref="char:punc">▪</g> we have often made it our ſcene of pleaſure, which muſt bee now of danger and of terrour to the adjacent Country, or to whatſoever forces ſhall take up armes to unwinter his Majeſty from Oxford, or offer to invade his Armies. Our neighbours in Buckingham ſhire begin to ſtartle at it, and ſeeing the tem<g ref="char:EOLhyphen"/>peſt that threatneth to deſtroy them, they know not which way to avoid it. They who were before ſo obſtinate as to re<g ref="char:EOLhyphen"/>fuſe Prince <hi>Roberts</hi> Orders for bringing in victuals to his Ma<g ref="char:EOLhyphen"/>jeſties Army, are now imploying their utmoſt ſtudies and en<g ref="char:EOLhyphen"/>deavours in providing victuals for themſelves. The heighth of the place, and the ſtrength of it will over awe the adjacent
+<pb facs="tcp:196960:3"/> plaines, and the neighbouring hils, which before did hold up aloft their proud and unrivall'd heads, muſt bee now taught to ſtoope to the ſupremacy of Bril. Even Shot-over it ſelfe bears downe his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nweildy ſhoulders, and acknowledgeth the ſport and chaſing of the Deere to be farre inferiour to the honour of Bril, and to the game of war. Even Wood ſtocke, famous for the delight of Princes, and fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the fountaine of <hi>Roſamond,</hi> and for her beauties, clee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er then that fountaine, refuſeth to heare the h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtory and flatterings of her forgotten glories, and in glad ſilence and obedience liſtens to the commands and thunders of Bril: while the Barnes, open as hoſpitality, ſtrive who ſhall firſt ſend in the tribute of their graine, and the richer houſes the tribute of their Plate, which traſported to Oxford muſt re<g ref="char:EOLhyphen"/>ceive there an impreſſion, as well as Paper. The King is the Vicegerent of God, the Parliament the Vicegerent of the King, and the cloſer they ſeeke after peace, and the unity of Religion, the neerer they arive unto the Eſſence and the Monarchy of God. The Peſants themſelves, whoſe churliſh underſtanding lyes onely in the Spade, the Coulter, and the Flayle, whoſe narrow braine cannot diſtinguiſh betwixt a Goſpel and a Pam<g ref="char:EOLhyphen"/>phlet, bring in their hands and hearts to the advancement of this great Deſigne. Loyalty is a word of great extent and lati<g ref="char:EOLhyphen"/>tude in nature, and ſtriking an impreſſion in the moſt cruell and moſt unreaſonable creatures, too oftentimes convinceth man to be the moſt unruly beaſt in all the field. Whiles I am wri<g ref="char:EOLhyphen"/>ting this, my Servitor hath brought mee in the tidings of the great joy in London which hee is informed hath poſſeſſed the City for taking the Lord <hi>Grandiſon</hi> priſoner at Wincheſter; if he can be as ſafe from your Pamphlets, as his perſon is from your Dragooners, I doubt not but his Honour will bee ſecure enough. You may doe very well to blot him out of your liſts, and many more Commanders with him, whoſe names, and not whoſe perſons, you have taken priſoners. It would much re<g ref="char:EOLhyphen"/>joyce
+<pb facs="tcp:196960:3"/> me to heare of your petitions for peace, in which every honeſt and ingenious ſpirit would here petition with you, and joyntly with humbled hearts, and the eloquence of bended knees, petition all to the great God of peace, that this ſo great a bleſſing may ſpeedily and really be derived to us, for the pro<g ref="char:EOLhyphen"/>tection of the true Religion, who lifts up her innocent hands to Heaven, and from whoſe eyes raine downe more blood, then from her profeſſors wounds, to ſee the diſtraction &amp; hor<g ref="char:EOLhyphen"/>rour of theſe preſent times; and that ſhee who doth moſt la<g ref="char:EOLhyphen"/>ment it, ſhould bee accuſed to occaſion this moſt unnaturall warre. For the preſervation of his Majeſties perſon, and his po<g ref="char:EOLhyphen"/>ſterity, whoſe inclinations have beene ſutable to his great Fa<g ref="char:EOLhyphen"/>thers, and ever more deſirous of peace then warre. For the ad<g ref="char:EOLhyphen"/>vancement of learning, the Arts enjoying now their beſt har<g ref="char:EOLhyphen"/>mony amidſt the ſound of the Drum and of the Canon, and Armes againe by a rare happineſſe finding their beſt welcome in the habitations of the Muſes: For the flouriſhing of the ſtate in generall, and of every private perſon in particular, in which he ſhould be as truly glad to ſee you, as you him who is,</p>
+            <closer>
+               <salute>Sir</salute>
+               <signed>your true friend to ſerve you, W. C.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The Anſwer to the former Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am glad to heare of your health, and I am ſorry to find you are ſo miſtaken in your letter, both in the manner and the matter, and which is attended rather with flouriſh and invention of a Poet, then with that eaſie and naturall grace which a familiar Epiſtle doth delight in. For the matter of it, it s;temes as farre from truth as ſubſtance, (I muſt beſeech you to excuſe my boldneſſe, for being my ancient friend, I am bound to deale uprightly with you:) you
+<pb facs="tcp:196960:4"/> ſeeme with great glory to advance the retreating of His Ma<g ref="char:EOLhyphen"/>jeſties forces from Banbury, and their retiring unto Brill, where you would make us beleeve there is a fort now rayſing of great conſequence, which ſhall ſecure the City of Oxford, and op<g ref="char:EOLhyphen"/>poſe the neighbouring County, and all invadors whatſoever. Such a deſign may be in agitation &amp; like enough, but it is ſo far from the modeſty of a Sholar to boaſt of the making of works for the maintainance of warre, that it is ſcarſe ſutable to the condition of an honeſt man, and in the meane while you pray for peace, you obſerve not in what a lamentable condition this Kingdome is like to be involved by the Papiſts Army now un<g ref="char:EOLhyphen"/>der the command of the Earle of Newcaſtle, who is maching up towards Oxford to His Majeſty with them; and it is worth obſervation, that the King of France being a great Catholick, hath removed many Papiſts Councellours, and taken Pro<g ref="char:EOLhyphen"/>teſtants in their places, and that the King of England being a Proteſtant ſhould refuſe the adviſe of his Proteſtant Parliament, and ſeek unto Papiſts for his ſtrength and Councell, but God (I doubt not) will preſerve his ſacred perſon, and ſpeedily in his good time ſettle him in the eies of his beſt Councellours, and in the hearts of his beſt Subjects; yet I muſt not forget with what cloſenes and ſubtilty the Papiſts have a long time indea<g ref="char:EOLhyphen"/>voured to withdraw His Majeſties heart from his good people and to endeavour the ruine and devaſtation of the Kingdome. When then they found it was impoſſible for them by open ſtrength to induce their religion into the Kingdome, they la<g ref="char:EOLhyphen"/>boured night and day to make a miſunderſtanding betwixt His Majeſty and his Councell, and by that means to with<g ref="char:EOLhyphen"/>draw His Majeſties perſon from his Parliament; when they had fomented this, and miſchievouſly accompliſhed it, they found the Kingdom would immediatly riſe up in Arms againſt them, if they ſhould make open ſhew of what they intended to put in practice, they found therefore no better courſe to cry up
+<pb facs="tcp:196960:4"/> their religion, then by crying up our owne; here upon pro<g ref="char:EOLhyphen"/>ceeded ſo many Proteſtations from His Majeſty, (whoſe zeale to the true religion no man will deny) for the preſervation of the ancient religion ſetled in the daies of Queen <hi>Elizabeth,</hi> and King <hi>Iames</hi> of happy memory: this they knew would make a great impreſſion in the hearts of the people, and cauſe them to thinke evill of the Parliament, and draw the greateſt part of the land to ſide with his Majeſty: When they found that this de<g ref="char:EOLhyphen"/>ſigne tooke effect, many great men that were known before to be open Papiſts, the better to comply with the times, diſſem<g ref="char:EOLhyphen"/>bled their religion, and the more to endeere themſelves to His Majeſty, would reſort unto the church with him: It was report<g ref="char:EOLhyphen"/>ed then that the King had not a Papiſt in his Army. The cuntry thronged in abundance to aſſiſt His Majeſty, who (they ſaid) received much damage and injury fom his Parliament. When they found the King had made himſelf ſtrong with the Armes and numbers of his people, and that according to their ex<g ref="char:EOLhyphen"/>pectation much bloud was ſhed, and that there was ſuch a heart-burning amongſt the Nobility that it is to bee feared this age will not extinguiſh, then they began to pull off their vizards of hypocriſy, and to ſhew themſelves in earneſt. Firſt there was drawne a Declaration by my Lord of Newcaſtle to countenance the Papiſts taking up of Armes; preſently a great reſort of Papiſts, Commanders &amp; others addreſſed themſelves unto him. Many notorious Papiſts in the Kings Army were not aſhamed openly to confeſſe themſelves, and it is to be fea<g ref="char:EOLhyphen"/>red that His Majeſty, who at the firſt entertained ſome for their aſſiſtance, in the end of the warre muſt be inforced to gratifie ſome for their neceſſity; who by reaſon of their ſervice, being gratious to the King, will continew to infuſe ill counſell into his ſacred eares, or be of power with his Miniſters and agents of State to procure a toleration at leaſt for their Religion. You
+<pb facs="tcp:196960:5"/> ſee my Lord of Newcaſtles Army is marching towards Ox<g ref="char:EOLhyphen"/>ford, and what true heart that doth not bleed to conſider the cruelty of the bloudthirſty Papiſts? You may doe well to turne your thoughts from the fortification of Brill, to a conſiderati<g ref="char:EOLhyphen"/>on in what an imminent danger His Majeſty<g ref="char:punc">▪</g> our Religion, and the whole Kingdome is, if (which God forbid) the Earle of Newcaſtles Army ſhould prevaile, and from the praying for peace (for how can there be peace as long as Idolatry, and bloudſhed and rapine raigne?) to petitions with unceſſant pray<g ref="char:EOLhyphen"/>ers Almighty God to bleſſe our Armies that are going forth, to returne them ſafe with honour and victory, to pluck his ſa<g ref="char:EOLhyphen"/>cred Majeſtie from the pernitious hands of ſuch deſperat men, and to reduce him ſafe to his great Councel: neither do we de<g ref="char:EOLhyphen"/>ſpair of it, for we are informed that his Excellence hath ſent forth ſome Regiments to hinder the progreſſe of the work, and that the Country round about do take up Armes to fruſtrate it. I muſt deſire you to excuſe the ſharpneſſe of my pen, and to impute it to the love and not the harſhneſſe of him who is.</p>
+            <closer>
+               <signed>Your ever loving friend. T. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
